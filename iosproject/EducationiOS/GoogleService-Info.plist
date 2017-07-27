@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>794591902604-68gkm0c4iahnvf5cfap3o9bbjrfjm8mu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.794591902604-68gkm0c4iahnvf5cfap3o9bbjrfjm8mu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIglOu-fr80LkJGPuD4BrQKtp5nkZBsNk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>794591902604</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lambton.c0703144</string>
+	<key>PROJECT_ID</key>
+	<string>lambton-ios-bbe2d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lambton-ios-bbe2d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:794591902604:ios:772f1ce1973ebbb2</string>
+	<key>DATABASE_URL</key>
+	<string>https://lambton-ios-bbe2d.firebaseio.com</string>
+</dict>
+</plist>
